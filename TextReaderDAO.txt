@@ -1,0 +1,6 @@
+Subaru
+NewModel0-1.0
+NewModel1-2.0
+NewModel2-3.0
+NewModel3-4.0
+NewModel4-5.0

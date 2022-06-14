@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student lastname="Ilya">
+    <subject title="Math" mark="4"/>
+    <subject title="Informatics" mark="5"/>
+    <subject title="Philosophy" mark="3"/>
+</student>
